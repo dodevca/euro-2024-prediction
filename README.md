@@ -42,10 +42,10 @@ This project is designed to be run on Google Colab. You can open the notebook di
 5. Run through the notebook to see the prediction workflow.
 
 ## Future Improvements
-- Incorporate more complex models (Random Forest, XGBoost) for higher prediction accuracy.
-- Expand dataset with up-to-date match statistics closer to EURO 2024.
-- Deploy a simple prediction app using Streamlit for public access.
-- Perform hyperparameter tuning for model optimization.
+- [ ] Incorporate more complex models (Random Forest, XGBoost) for higher prediction accuracy.
+- [ ] Expand dataset with up-to-date match statistics closer to EURO 2024.
+- [ ] Deploy a simple prediction app using Streamlit for public access.
+- [ ] Perform hyperparameter tuning for model optimization.
 
 ## Contact & Collaboration
 Interested in collaborating or enhancing this project?
