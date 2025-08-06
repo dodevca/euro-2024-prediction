@@ -1,4 +1,4 @@
-# EURO 2024 Match Outcome Prediction — by Dodevca
+# EURO 2024 Match Outcome Prediction
 
 ## About This Project
 A machine learning project designed to predict match outcomes for the EURO 2024 tournament based on historical data and team statistics. This project leverages data preprocessing, feature engineering, and supervised learning models to analyze patterns and forecast match results.
